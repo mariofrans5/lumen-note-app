@@ -1,2 +1,3 @@
 # lumen-note-app
-simple crud with JWT and lumen
+
+simple crud with Lumen,Firebase JWT,SQLite
